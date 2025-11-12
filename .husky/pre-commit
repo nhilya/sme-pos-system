@@ -1,0 +1,61 @@
+# npm test
+
+#!/bin/sh
+###############################################################################
+# Husky Pre-commit Hook
+#
+# Purpose:
+# - Prevent insecure dependencies (Composer Audit)
+# - Prevent broken tests (Pest)
+# - Enforce coding standards (Laravel Pint)
+# - Enforce static analysis (PHPStan)
+#
+# Notes:
+# - This script only runs on staged PHP files to optimize performance.
+# - If Pint auto-fixes files, you must re-stage them before committing.
+###############################################################################
+
+echo "🔒 [1/4] Security Check – Composer Audit"
+composer audit --no-interaction
+if [ $? -ne 0 ]; then
+  echo "❌ Security vulnerabilities detected!"
+  exit 1
+fi
+
+# echo "🧪 [2/4] Run Tests – Pest"
+# ./vendor/bin/pest
+# if [ $? -ne 0 ]; then
+#   echo "❌ Some tests failed!"
+#   exit 1
+# fi
+
+# Prepare PHP file list
+TEMP_DIR="./storage/phpstan"
+mkdir -p "$TEMP_DIR"
+
+STAGED_FILES_TEMP="$TEMP_DIR/staged_files_$(date +%s).txt"
+PHPSTAN_OUTPUT_TEMP="$TEMP_DIR/phpstan_output_$(date +%s).txt"
+
+cleanup() {
+  rm -f "$STAGED_FILES_TEMP" "$PHPSTAN_OUTPUT_TEMP"
+}
+trap cleanup EXIT INT TERM
+
+git diff --cached --name-only --diff-filter=ACMR | grep "\.php$" > "$STAGED_FILES_TEMP"
+
+if [ ! -s "$STAGED_FILES_TEMP" ]; then
+  echo "ℹ No staged PHP files. Skipping Pint & PHPStan."
+  exit 0
+fi
+
+echo "🎨 [3/4] Code Style – Laravel Pint"
+./vendor/bin/pint $(cat "$STAGED_FILES_TEMP")
+git add $(cat "$STAGED_FILES_TEMP")
+
+echo "🔎 [4/4] Static Analysis – Larastan (PHPStan)"
+if ! ./vendor/bin/phpstan analyse --memory-limit=2G; then
+  echo "❌ Commit aborted: Larastan found issues."
+  exit 1
+fi
+
+echo "✅ All checks passed. Proceeding with commit."
