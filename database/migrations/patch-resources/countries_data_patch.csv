@@ -1,0 +1,245 @@
+country_name,nationality_code,currency_code,phone_code,nationality
+Malaysia,MY,MYR,+60,Malaysian
+Aruba,AW,AWG,+297,Aruban
+Afghanistan,AF,AFN,+93,Afghan
+Angola,AO,KZ,+244,Angolan
+Anguilla,AI,XCD,+1-264,Anguillian
+Åland Islands,AX,EUR,+358-18,Åland Islander
+Albania,AL,ALL,+355,Albanian
+Andorra,AD,EUR,+376,Andorran
+United Arab Emirates,AE,AED,+971,Emirati
+Argentina,AR,ARS,+54,Argentine
+Armenia,AM,AMD,+374,Armenian
+American Samoa,AS,USD,+1-684,Samoan Americans
+Antigua and Barbuda,AG,XCD,+1-268,Antiguan & Barbudan
+Australia,AU,AUD,+61,Australian
+Austria,AT,EUR,+43,Austrian
+Azerbaijan,AZ,AZN,+994,Azerbaijani
+Burundi,BI,BIF,+257,Burundian
+Belgium,BE,EUR,+32,Belgian
+Benin,BJ,XOF,+229,Beninese
+"Bonaire, Sint Eustatius and Saba",BQ,USD,+599,Dutch
+Burkina Faso,BF,XOF,+226,Burkinabé
+Bangladesh,BD,BDT,+880,Bangladeshi
+Bulgaria,BG,BGN,+359,Bulgarian
+Bahrain,BH,BHD,+973,Bahraini
+Bahamas,BS,BSD,+1-242,Bahamian
+Bosnia and Herzegovina,BA,BAM,+387,Bosnian
+Saint Barthélemy,BL,EUR,+590,Barthélemois
+Belarus,BY,BYN,+375,Belarusian
+Belize,BZ,BZD,+501,Belizean
+Bermuda,BM,BMD,+1-441,Bermudian
+"Bolivia, Plurinational State of",BO,BOB,+591,Bolivian
+Brazil,BR,BRL,+55,Brazilian
+Barbados,BB,BBD,+1-246,Barbadian
+Brunei Darussalam,BN,BND,+673,Bruneian
+Bhutan,BT,BTN,+975,Bhutanese
+Bouvet Island,BV,NOK,+47,Norwegian
+Botswana,BW,BWP,+267,Botswanan
+Central African Republic,CF,XAF,+236,Central African
+Canada,CA,CAD,+1,Canadian
+Cocos (Keeling) Islands,CC,AUD,+61,Cocos Malays
+Switzerland,CH,CHF,+41,Swiss
+Chile,CL,CLP,+56,Chilean
+China,CN,CNY,+86,Chinese
+Côte d'Ivoire,CI,XOF,+225,Ivorian
+Cameroon,CM,XAF,+237,Cameroonian
+"Congo, The Democratic Republic of the",CD,CDF,+243,Congolese (DRC)
+Congo,CG,XAF,+242,Congolese
+Cook Islands,CK,NZD,+682,Cook Islanders
+Colombia,CO,COP,+57,Colombian
+Comoros,KM,,+269,Comorian
+Cabo Verde,CV,,+238,Cape Verdean
+Costa Rica,CR,CRC,+506,Costa Rican
+Cuba,CU,,+53,Cuban
+Curaçao,CW,ANG,+599,Curaçaoan
+Christmas Island,CX,,+61,Australian
+Cayman Islands,KY,KYD,+1-345,Caymanian
+Cyprus,CY,EUR,+357,Cypriot
+Czechia,CZ,CZK,+420,Czech
+Germany,DE,EUR,+49,German
+Djibouti,DJ,,+253,Djiboutian
+Dominica,DM,XCD,+1-767,Dominican (Dominica)
+Denmark,DK,DKK,+45,Danish
+Dominican Republic,DO,DOP,+1-809,Dominican (Republic)
+Algeria,DZ,DZD,+213,Algerian
+Ecuador,EC,USD,+593,Ecuadorian
+Egypt,EG,EGP,+20,Egyptian
+Eritrea,ER,ERN,+291,Eritrean
+Western Sahara,EH,MAD,+212,Sahrawi
+Spain,ES,EUR,+34,Spanish
+Estonia,EE,EUR,+372,Estonian
+Ethiopia,ET,ETB,+251,Ethiopian
+Finland,FI,EUR,+358,Finnish
+Fiji,FJ,FJD,+679,Fijian
+Falkland Islands (Malvinas),FK,FKP,+500,Falkland Islander
+France,FR,EUR,+33,French
+Faroe Islands,FO,DKK,+298,Faroese
+"Micronesia, Federated States of",FM,USD,+691,Micronesian
+Gabon,GA,XAF,+241,Gabonese
+United Kingdom,GB,GBP,+44,British
+Georgia,GE,GEL,+995,Georgian
+Guernsey,GG,GBP,+44-1481,Guernsey islander
+Ghana,GH,GHS,+233,Ghanaian
+Gibraltar,GI,GIP,+350,Gibraltarian
+Guinea,GN,GNF,+224,Guinean
+Guadeloupe,GP,EUR,+590,Guadeloupian
+Gambia,GM,GMD,+220,Gambian
+Guinea-Bissau,GW,XOF,+245,Bissau-Guinean
+Equatorial Guinea,GQ,XAF,+240,Equatoguinean
+Greece,GR,EUR,+30,Greek
+Grenada,GD,XCD,+1-473,Grenadian
+Greenland,GL,DKK,+299,Greenlander
+Guatemala,GT,GTQ,+502,Guatemalan
+French Guiana,GF,EUR,+594,
+Guam,GU,USD,+1-671,Guamanian
+Guyana,GY,GYD,+592,Guyanese
+Hong Kong,HK,HKD,+852,Hongkonger
+Honduras,HN,HNL,+504,Honduran
+Croatia,HR,HRK,+385,Croatian
+Haiti,HT,HTG,+509,Haitian
+Hungary,HU,HUF,+36,Hungarian
+Indonesia,ID,IDR,+62,Indonesian
+Isle of Man,IM,GBP,+44-1624,Manx
+India,IN,INR,+91,Indian
+British Indian Ocean Territory,IO,USD,+246,BIOT
+Ireland,IE,EUR,+353,Irish
+"Iran, Islamic Republic of",IR,IRR,+98,Iranian
+Iraq,IQ,IQD,+964,Iraqi
+Iceland,IS,ISK,+354,Icelandic
+Israel,IL,ILS,+972,Israeli
+Italy,IT,EUR,+39,Italian
+Jamaica,JM,JMD,+1-876,Jamaican
+Jersey,JE,GBP,+44-1534,Jersey islander
+Jordan,JO,JOD,+962,Jordanian
+Japan,JP,JPY,+81,Japanese
+Kazakhstan,KZ,KZT,+7,Kazakh
+Kenya,KE,KES,+254,Kenyan
+Kyrgyzstan,KG,KGS,+996,Kyrgyz
+Cambodia,KH,KHR,+855,Cambodian
+Kiribati,KI,AUD,+686,I-Kiribati
+Saint Kitts and Nevis,KN,XCD,+1-869,Kittitian/Nevisian
+"Korea, Republic of",KR,KRW,+82,South Korean
+Kuwait,KW,KWD,+965,Kuwaiti
+Lao People's Democratic Republic,LA,LAK,+856,Lao
+Lebanon,LB,LBP,+961,Lebanese
+Liberia,LR,LRD,+231,Liberian
+Libya,LY,LYD,+218,Libyan
+Saint Lucia,LC,XCD,+1-758,Saint Lucian
+Liechtenstein,LI,CHF,+423,Liechtensteiner
+Sri Lanka,LK,LKR,+94,Sri Lankan
+Lesotho,LS,LSL,+266,Mosotho
+Lithuania,LT,EUR,+370,Lithuanian
+Luxembourg,LU,EUR,+352,Luxembourgish
+Latvia,LV,EUR,+371,Latvian
+Macao,MO,MOP,+853,Macanese
+Saint Martin (French part),MF,EUR,+590,Saint-Martinois
+Morocco,MA,MAD,+212,Moroccan
+Monaco,MC,EUR,+377,Monégasque
+"Moldova, Republic of",MD,MDL,+373,Moldovan
+Madagascar,MG,MGA,+261,Malagasy
+Maldives,MV,MVR,+960,Maldivian
+Mexico,MX,MXN,+52,Mexican
+Marshall Islands,MH,USD,+692,Marshallese
+North Macedonia,MK,MKD,+389,Macedonian
+Mali,ML,XOF,+223,Malian
+Malta,MT,EUR,+356,Maltese
+Myanmar,MM,MMK,+95,Burmese
+Montenegro,ME,EUR,+382,Montenegrin
+Mongolia,MN,MNT,+976,Mongolian
+Northern Mariana Islands,MP,USD,+1-670,Northern Marianan
+Mozambique,MZ,MZN,+258,Mozambican
+Mauritania,MR,MRU,+222,Mauritanian
+Montserrat,MS,XCD,+1-664,Montserratian
+Martinique,MQ,EUR,+596,Martiniquais
+Mauritius,MU,MUR,+230,Mauritian
+Malawi,MW,MWK,+265,Malawian
+Mayotte,YT,EUR,+262,Mahoran
+Namibia,NA,NAD,+264,Namibian
+New Caledonia,NC,XPF,+687,New Caledonian
+Niger,NE,XOF,+227,Nigerien
+Norfolk Island,NF,AUD,+672,Norfolk Islander
+Nigeria,NG,NGN,+234,Nigerian
+Nicaragua,NI,NIO,+505,Nicaraguan
+Niue,NU,NZD,+683,Niuean
+Netherlands,NL,EUR,+31,Dutch
+Norway,NO,NOK,+47,Norwegian
+Nepal,NP,NPR,+977,Nepalese
+Nauru,NR,AUD,+674,Nauruan
+New Zealand,NZ,NZD,+64,New Zealander
+Oman,OM,OMR,+968,Omani
+Pakistan,PK,PKR,+92,Pakistani
+Panama,PA,PAB,+507,Panamanian
+Peru,PE,PEN,+51,Peruvian
+Philippines,PH,PHP,+63,Filipino
+Palau,PW,USD,+680,Palauan
+Papua New Guinea,PG,PGK,+675,Papua New Guinean
+Poland,PL,PLN,+48,Polish
+Puerto Rico,PR,USD,+1-787,Puerto Rican
+"Korea, Democratic People's Republic of",KP,KPW,+850,North Korean
+Portugal,PT,EUR,+351,Portuguese
+Paraguay,PY,PYG,+595,Paraguayan
+"Palestine, State of",PS,ILS,+970,Palestinian
+French Polynesia,PF,XPF,+689,Tahitian
+Qatar,QA,QAR,+974,Qatari
+Réunion,RE,EUR,+262,Réunionese
+Romania,RO,RON,+40,Romanian
+Russian Federation,RU,RUB,+7,Russian
+Rwanda,RW,RWF,+250,Rwandan
+Saudi Arabia,SA,SAR,+966,Saudi Arabian
+Sudan,SD,SDG,+249,Sudanese
+Senegal,SN,XOF,+221,Senegalese
+Singapore,SG,SGD,+65,Singaporean
+"Saint Helena, Ascension and Tristan da Cunha",SH,SHP,+290,Saint Helenian
+Svalbard and Jan Mayen,SJ,NOK,+47,Svalbard resident
+Solomon Islands,SB,SBD,+677,Solomon Islander
+Sierra Leone,SL,SLL,+232,Sierra Leonean
+El Salvador,SV,USD,+503,Salvadoran
+San Marino,SM,EUR,+378,San Marinese
+Somalia,SO,SOS,+252,Somali
+Saint Pierre and Miquelon,PM,EUR,+508,Saint-Pierrais
+Serbia,RS,RSD,+381,Serbian
+South Sudan,SS,SSP,+211,South Sudanese
+Sao Tome and Principe,ST,STN,+239,São Toméan
+Suriname,SR,SRD,+597,Surinamese
+Slovakia,SK,EUR,+421,Slovak
+Slovenia,SI,EUR,+386,Slovene
+Sweden,SE,SEK,+46,Swedish
+Eswatini,SZ,SZL,+268,Swazi
+Sint Maarten (Dutch part),SX,ANG,+1-721,Sint Maartener
+Seychelles,SC,SCR,+248,Seychellois
+Syrian Arab Republic,SY,SYP,+963,Syrian
+Turks and Caicos Islands,TC,USD,+1-649,Turks and Caicos Islander
+Chad,TD,XAF,+235,Chadian
+Togo,TG,XOF,+228,Togolese
+Thailand,TH,THB,+66,Thai
+Tajikistan,TJ,TJS,+992,Tajik
+Tokelau,TK,NZD,+690,Tokelauan
+Turkmenistan,TM,TMT,+993,Turkmen
+Timor-Leste,TL,USD,+670,Timorese
+Tonga,TO,TOP,+676,Tongan
+Trinidad and Tobago,TT,TTD,+1-868,Trinidadian/Tobagonian
+Tunisia,TN,TND,+216,Tunisian
+Turkey,TR,TRY,+90,Turkish
+Tuvalu,TV,TVD,+688,Tuvaluan
+"Taiwan, Province of China",TW,TWD,+886,Taiwanese
+"Tanzania, United Republic of",TZ,TZS,+255,Tanzanian
+Uganda,UG,UGX,+256,Ugandan
+Ukraine,UA,UAH,+380,Ukrainian
+United States Minor Outlying Islands,UM,USD,+1,U.S. Minor Outlying Islander
+Uruguay,UY,UYU,+598,Uruguayan
+United States,US,USD,+1,American
+Uzbekistan,UZ,UZS,+998,Uzbek
+Holy See (Vatican City State),VA,EUR,+379,Vatican
+Saint Vincent and the Grenadines,VC,XCD,+1-784,Vincentian
+"Venezuela, Bolivarian Republic of",VE,VES,+58,Venezuelan
+"Virgin Islands, British",VG,USD,+1-284,British Virgin Islander
+"Virgin Islands, U.S.",VI,USD,+1-340,U.S. Virgin Islander
+Viet Nam,VN,VND,+84,Vietnamese
+Vanuatu,VU,VUV,+678,Ni-Vanuatu
+Wallis and Futuna,WF,XPF,+681,Wallisian/Futunan
+Samoa,WS,WST,+685,Samoan
+Yemen,YE,YER,+967,Yemeni
+South Africa,ZA,ZAR,+27,South African
+Zambia,ZM,ZMW,+260,Zambian
+Zimbabwe,ZW,ZWL,+263,Zimbabwean
