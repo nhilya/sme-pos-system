@@ -33,11 +33,6 @@ class StaffRolesSeeder extends Seeder
                 'display_name' => 'Manager',
                 'description' => 'Have staff access, manage staff and reports',
             ],
-            [
-                'name' => 'customer',
-                'display_name' => 'Customer',
-                'description' => 'Customer role for orders and interactions',
-            ],
         ];
     }
 

@@ -30,4 +30,9 @@ class Staff extends Model
     {
         return $this->belongsTo(Role::class, 'role_id');
     }
+
+    public function phoneCountryCode(): BelongsTo
+    {
+        return $this->belongsTo(Country::class, 'phone_country_code_id');
+    }
 }
