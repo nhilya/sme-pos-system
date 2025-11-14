@@ -16,7 +16,7 @@ class ItemForm
                     ->required(),
                 Select::make('item_category_id')
                     ->label('Item Category')
-                    ->relationship('itemCategory', 'display_name')
+                    ->relationship('itemCategory', 'name')
                     ->required(),
                 TextInput::make('description')
                     ->required(),

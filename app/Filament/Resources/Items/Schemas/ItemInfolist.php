@@ -13,7 +13,7 @@ class ItemInfolist
         return $schema
             ->components([
                 TextEntry::make('name'),
-                TextEntry::make('itemCategory.display_name')
+                TextEntry::make('itemCategory.name')
                     ->label('Item Category'),
                 TextEntry::make('description'),
                 TextEntry::make('price')
